@@ -120,6 +120,7 @@ $ git clone git@github.com:calebatwood/Week1_Monday.git
 #Intro to JavaScript
 ##The Console
 - In Google Chrome: `cmd + option + j`
+- Windows: 'cntrl + shift + j'
 
 ##Syntax
 Primitive Data Types: `numbers`, `strings`, `boolean`, `undefined`, `null`
